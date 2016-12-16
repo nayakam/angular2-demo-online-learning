@@ -1,5 +1,5 @@
 
-### Angular2 Demo - Online Learning 
+### Angular2 Demo - Online Learning App
 
 * TypeScript
 * Node.js
@@ -8,7 +8,7 @@
 
 
 ##### Exercise
-Brief details about 
+Brief details about
 
 * Components
 * Directives
@@ -25,8 +25,15 @@ Following task demoed & explained
 * Use custom directive
 
 
-##### UI Screen 
+##### UI
+ 
+##### Page Display
+ 
+![alt tag](https://raw.githubusercontent.com/nayakam/angular2-demo-online-learning/master/demo/angular2-demo-ui.png)
 
+##### Demo
+
+![alt tag](https://raw.githubusercontent.com/nayakam/angular2-demo-online-learning/master/demo/angular2-demo.gif)
 
 ##### Reference 
 
