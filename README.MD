@@ -8,14 +8,21 @@
 
 
 ##### Exercise
+Brief details about 
 
-Following items demoed & explained 
+* Components
+* Directives
+* Services
+* Dependency Injection
+ 
+Following task demoed & explained 
 
-* Create a Component
-* Set the properties
+* Creating a Component
+* Setting the properties
 * Use interpolation {{}}
-* Create a Service 
+* Creating a Service 
 * Use dependency injection
+* Use custom directive
 
 
 ##### UI Screen 

@@ -1,6 +1,6 @@
 export class CourseService {
 
-    getCourse(): string[] {
+    getCourses(): string[] {
         return ["Course1", "Course2", "Course3"];
     }
 
